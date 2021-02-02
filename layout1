@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>RoutineHub</title>
+<style>
+body {
+  background-color: bgcol;
+  text-align: center;
+  color: txtcol;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.link {
+color: txtcol;
+text-decoration: none;
+}
+.here {
+color: txtcol;
+font-size: 100px;
+text-decoration: none;
+}
+.lol {
+color: txtcol;
+font-size: 75px;
+text-decoration: none;
+}
+h1 {
+font-size: 150px;
+}
+p {
+font-size: 50px;
+}
+</style>
+</head>
+<body>
+<h1>RoutineHub <br> Launcher</h1>
+<p>
+<br>
+<a class="here" href="https://routinehub.co">Routinehub</a>
+<br>
+<br>
+<br>
+<br>
+<a class="lol" href="https://routinehub.co/user/usrnm">Profile</a>
+<br>
+<br>
+<a class="lol" href="https://routinehub.co/notifications/">Notifications</a>
+<br>
+<br>
+<a class="lol" href="https://routinehub.co/shortcut/create">Upload Shortcut</a>
+<br>
+<br>
+<br>
+<br>
+<br>
+<a class="link" href="shortcuts://run-shortcut?name=RoutineHub Launcher&input=settings">Launcher Settings</a>
+</p>
+</body>
+</html>
