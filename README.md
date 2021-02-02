@@ -9,4 +9,4 @@ RoutineHub Launcher features
 - fast navigation throught routinehub because of easy menus
 - large set of customization tools (still in work)
 
-Get it [here] (https://routinehub.co/shortcut/8064/)!
+Get it here: https://routinehub.co/shortcut/8064/
