@@ -8,3 +8,5 @@ RoutineHub Launcher features
 - can be turned into an app and be placed on your homescreen
 - fast navigation throught routinehub because of easy menus
 - large set of customization tools (still in work)
+
+Get it [here] (https://routinehub.co/shortcut/8064/)!
